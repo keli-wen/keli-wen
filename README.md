@@ -1,6 +1,8 @@
 ### Hi there  <img src="https://github.com/Muyangwen/Muyangwen/blob/main/wave.gif" width="30px">
 <!-- 👋 -->
 My name's Keli Wen.
+- Wuhan University, Computer Science, B.Eng
+- Peking University, Computer Science, M.Sc (Current)
 
 I used to work at Microsoft. One of my dream companies is Google. 
 
@@ -8,7 +10,7 @@ I hope I can constantly study in DL, ML and ICPC/CCPC.
 
 
 ### ⚡Technology
-- *CodeForce:* [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  
+My CodeForce: [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  
 
 <!-- ### 🌍*My GitHub* -->
 <!-- ![Last Whisper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muyangwen&show_icons=true&theme=onedark) -->
@@ -26,5 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br/>
+<br/>
 
 <h1 align='center'><i>Work-Life Balance</i></h1>
