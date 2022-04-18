@@ -10,8 +10,8 @@
 
 - *CodeForce:* [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  
 
-### 🌍*My GitHub*
-![Last Whisper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muyangwen&show_icons=true&theme=onedark)
+<!-- ### 🌍*My GitHub* -->
+<!-- ![Last Whisper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muyangwen&show_icons=true&theme=onedark) -->
 <!--
 **Muyangwen/Muyangwen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
