@@ -1,13 +1,13 @@
 ### Hi there  <img src="https://github.com/Muyangwen/Muyangwen/blob/main/wave.gif" width="30px">
 <!-- 👋 -->
-- 🔭 I’m currently working on Microsoft  
-- 🌱 I’m currently learning ML/Algorithm 
-- 📫 How to reach me: whuwkl@gmail.com / pkuwkl@gmail.com
+My name's Keli Wen.
+
+I used to work at Microsoft. One of my dream companies is Google. 
+
+I hope I can constantly study in DL, ML and ICPC/CCPC.
+
 
 ### ⚡Technology
-- *Language:*  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-
 - *CodeForce:* [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  
 
 <!-- ### 🌍*My GitHub* -->
@@ -25,4 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 <h1 align='center'><i>Work-Life Balance</i></h1>
