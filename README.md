@@ -9,8 +9,8 @@ I used to work at Microsoft. One of my dream companies is Google.
 I hope I can constantly study in DL, ML and ICPC/CCPC.
 
 
-### ⚡Technology
-My CodeForce: [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  
+<!-- ### ⚡Technology -->
+<!-- My CodeForce: [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  -->
 
 <!-- ### 🌍*My GitHub* -->
 <!-- ![Last Whisper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muyangwen&show_icons=true&theme=onedark) -->
