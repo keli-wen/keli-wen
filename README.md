@@ -1,10 +1,10 @@
 ### Hi there  <img src="https://github.com/Muyangwen/Muyangwen/blob/main/wave.gif" width="30px">
 <!-- 👋 -->
 My name's Keli Wen.
-- Wuhan University, Computer Science, B.Eng
+- Wuhan University , Computer Science, B.Eng
 - Peking University, Computer Science, M.Sc (Current)
 
-I used to work at Microsoft. One of my dream companies is Google. 
+I used to work at Microsoft. I am currently working at Amazon. One of my dream companies is Google. 
 
 I hope I can constantly study in DL, ML and ICPC/CCPC.
 
