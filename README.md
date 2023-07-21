@@ -1,12 +1,12 @@
 ### Hi there  <img src="https://github.com/Muyangwen/Muyangwen/blob/main/wave.gif" width="30px">
 <!-- 👋 -->
 My name's Keli Wen.
-- Wuhan University, Computer Science, B.Eng
-- Peking University, Computer Science, M.Sc (Current)
+- [x] Wuhan University, CS, B.Eng
+- [ ] Peking University, ECE, M.Sc (First Year 🕙)
 
-I used to work at Microsoft. <img src="https://user-images.githubusercontent.com/103916249/235165844-ae975f73-3216-4e3f-b54b-617c1e8a3269.png" width="17px" /> 
+I used to work at **Microsoft**, Software Technology Center Asia (STCA). <img src="https://user-images.githubusercontent.com/103916249/235165844-ae975f73-3216-4e3f-b54b-617c1e8a3269.png" width="17px" /> 
 
-I am **currently** working at Amazon. <img src="https://user-images.githubusercontent.com/103916249/235168197-4b887d75-3628-4391-8972-2ddb622abb31.jpeg" width="20px" /> 
+I am **currently** working at **AWS**, Shanghai AI Lab (ASAIL). <img src="https://user-images.githubusercontent.com/103916249/235168197-4b887d75-3628-4391-8972-2ddb622abb31.jpeg" width="20px" /> 
 
 One of my dream companies is Google. 
 
