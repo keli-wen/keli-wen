@@ -10,8 +10,6 @@ I am **currently** working at **AWS**, Shanghai AI Lab (ASAIL). <img src="https:
 
 One of my dream companies is Google. 
 
-I hope I can constantly study in DL, ML and ICPC/CCPC.
-
 
 <!-- ### ⚡Technology -->
 <!-- My CodeForce: [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  -->
