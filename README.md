@@ -8,7 +8,7 @@ I used to work at **Microsoft**, Software Technology Center Asia (STCA). <img sr
 
 I am **currently** working at **AWS**, Shanghai AI Lab (ASAIL). <img src="https://user-images.githubusercontent.com/103916249/235168197-4b887d75-3628-4391-8972-2ddb622abb31.jpeg" width="20px" /> 
 
-My dream companies are NVIDIA and Google.
+My dream companies are NVIDIA, Google and Optiver.
 
 
 <!-- ### ⚡Technology -->
