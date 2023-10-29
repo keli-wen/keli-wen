@@ -2,7 +2,7 @@
 <!-- 👋 -->
 My name's Keli Wen.
 - [x] Wuhan University, CS, B.Eng.
-- [ ] Peking University, ECE, M.Phil. (First Year 🕙)
+- [ ] Peking University, ECE, M.Phil. (Second Year 🕙)
 
 I used to work at **Microsoft**, Software Technology Center Asia (STCA). <img src="https://user-images.githubusercontent.com/103916249/235165844-ae975f73-3216-4e3f-b54b-617c1e8a3269.png" width="17px" /> 
 
