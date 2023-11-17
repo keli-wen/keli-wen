@@ -4,11 +4,13 @@ My name's Keli Wen.
 - [x] Wuhan University, CS, B.Eng.
 - [ ] Peking University, ECE, M.Phil. (Second Year 🕙)
 
-I used to work at **Microsoft**, Software Technology Center Asia (STCA). <img src="https://user-images.githubusercontent.com/103916249/235165844-ae975f73-3216-4e3f-b54b-617c1e8a3269.png" width="17px" /> 
+I used to work at:
+- **Microsoft**, Software Technology Center Asia (STCA). <img src="https://user-images.githubusercontent.com/103916249/235165844-ae975f73-3216-4e3f-b54b-617c1e8a3269.png" width="17px" /> 
+- **AWS**, Shanghai AI Lab (ASAIL). <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" width="20px" /> 
 
-I am **currently** working at **AWS**, Shanghai AI Lab (ASAIL). <img src="https://user-images.githubusercontent.com/103916249/235168197-4b887d75-3628-4391-8972-2ddb622abb31.jpeg" width="20px" /> 
+I am **currently** working at **Microsoft Research Asia**, Machine Learning Group. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Segoe_msr_logo.png/1200px-Segoe_msr_logo.png" width="90px" /> 
 
-My dream company is Google.
+My dream company is Google -).
 
 
 <!-- ### ⚡Technology -->
