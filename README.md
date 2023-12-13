@@ -1,6 +1,6 @@
 **Hi there** <img src="https://github.com/keli-wen/keli-wen/blob/main/files/wave.gif" width="30px"> 
 <!-- 👋 -->
-My name's Keli Wen.
+My name's LastWhipser.
 - [x] Wuhan University, CS, B.Eng.
 - [ ] Peking University, ECE, M.Phil. (Second Year 🕙)
 
