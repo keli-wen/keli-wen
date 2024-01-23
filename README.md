@@ -10,7 +10,7 @@ I used to intern at:
 
 I am **currently** intern at **Microsoft Research Asia** (MSRA), Machine Learning Group. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Segoe_msr_logo.png/1200px-Segoe_msr_logo.png" width="90px" /> 
 
-My dream company is Google -).
+My dream company is Google -). (mabye this summer)
 
 
 <!-- ### ⚡Technology -->
