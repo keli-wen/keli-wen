@@ -6,7 +6,7 @@
 
 Barely passing as a deep learning engineer, yet passionate about AI Infrastructure, Algorithms, and Finance.
 
-> _Striving to go further in DL, but aiming to be a Quant Dev, as a regular SDE. 😮‍💨_
+> _Striving to go further in DL, but aiming to be a Quant Dev, as a regular SDE._ 😮‍💨
 
 ### Open Source
 
