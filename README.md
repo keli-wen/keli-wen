@@ -6,7 +6,7 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
 
-### My Open Source
+### Open Source
 
 | ⚡️ | Project | 
 | :--: | :--: |
