@@ -2,9 +2,11 @@
 
 --- 
 
-刚过及格线的深度学习工程师。热爱 AI Infra，Algorithm，Fiance。试图能在 DL 领域更进一步，却想当 Quant Dev 的普通 SDE。
-
 ![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white)
+
+Barely passing as a deep learning engineer, yet passionate about AI Infrastructure, Algorithms, and Finance.
+
+> _Striving to go further in DL, but aiming to be a Quant Dev, as a regular SDE. 😮‍💨_
 
 ### Open Source
 
