@@ -51,6 +51,4 @@ Here are some ideas to get you started:
 -->
 
 <br/>
-<br/>
-
 <h1 align='center'><i>Work-Life Balance</i></h1>
