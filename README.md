@@ -2,7 +2,7 @@
 
 --- 
 
-![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white) ![pytorch](https://img.shields.io/badge/PyTorch-50%25-EE4C2C.svg?style=flat&logo=pytorch)
+![C++](https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white) ![pytorch](https://img.shields.io/badge/PyTorch-50%25-EE4C2C.svg?style=flat&logo=pytorch) ![Cuda](https://img.shields.io/badge/Cuda-2%25-85B737.svg?style=flat&logo=nvidia)
 
 Barely passing as a deep learning engineer, yet passionate about AI Infrastructure, Algorithms, and Finance.
 
