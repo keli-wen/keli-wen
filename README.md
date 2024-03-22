@@ -29,8 +29,6 @@ Barely passing as a deep learning engineer, yet passionate about AI Infrastructu
 - **Microsoft Research Asia** (MSRA), Machine Learning Group. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Segoe_msr_logo.png/1200px-Segoe_msr_logo.png" width="90px" />  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=6895D2&random=false&width=335&height=17&lines=Current%E2%9C%A8" alt="Typing SVG" /></a>
 - **Google**, Software Engineering Intern. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png" width="20px" style="vertical-align: middle; margin-top: 20px;" />
 
-My next dream company is Google.
-
 <!-- ### ⚡Technology -->
 <!-- My CodeForce: [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  -->
 
