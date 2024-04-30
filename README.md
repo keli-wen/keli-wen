@@ -13,7 +13,8 @@ Barely passing as a deep learning engineer, yet passionate about AI Infrastructu
 | :--: | :--: |
 | <img src="https://avatars.githubusercontent.com/u/11508361?s=200&v=4" alt="@dmlc" width="30px" /> | `@DMLC/DGL`  |
 | <img src="https://res.cloudinary.com/apideck/image/upload/v1674230967/marketplaces/ckhg56iu1mkpc0b66vj7fsj3o/listings/Screenshot_2023-01-20_at_17.09.10_ljybhx.png" alt="DeepSpeed" width="25px" />  | `@Microsoft/DeepSpeed` |
-| <img src="https://docs.vllm.ai/en/latest/_images/vllm-logo-text-light.png" alt="vLLM" width="60px" /> | `@vLLM-project/vLLM` |
+| <img src="https://avatars.githubusercontent.com/u/136984999?v=4&s=160" alt="vLLM" width="25px" /> | `@vLLM-project/vLLM` |
+| <img src="https://avatars.githubusercontent.com/u/153379578?s=48&v=4" alt = "meta" width="26px" /> | `@meta-llama/llama` |
 
 ### Education
 
