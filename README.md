@@ -18,7 +18,7 @@ Barely passing as a deep learning engineer, yet passionate about AI Infrastructu
 | <img src="./files/deepspeed-logo.png" alt="DeepSpeed" width="25px" />  | `@Microsoft/DeepSpeed` | <img src="./files/meta-logo.png" alt = "meta" width="26px" /> | `@meta-llama/llama` |
 
 <!-- ### ⚡Technology -->
-<!-- My CodeForce: [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  -->
+<!-- My: [![](https://cfrating.ihcr.top/?user=WHUWKL)](https://codeforces.com/profile/WHUWKL)  -->
 
 
 <!-- ![Last Whisper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muyangwen&show_icons=true&theme=onedark) -->
