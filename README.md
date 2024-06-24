@@ -10,7 +10,7 @@ Barely passing as a deep learning engineer, yet passionate about AI Infrastructu
 
 > _Striving to go further in DL, but aiming to be a Quant Dev, as a regular SDE._ 😮‍💨
 
-### Open Source
+### Open Source Contributor
 
 | ⚡️ | Project | ⚡️ | Project | 
 | :--: | :--: | :--: | :--: |
