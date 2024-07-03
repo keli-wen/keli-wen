@@ -17,9 +17,5 @@ Barely passing as a deep learning engineer, yet passionate about AI Infrastructu
 | <img src="./files/dmlc-logo.png" alt="@dmlc" width="30px" /> | `@DMLC/DGL`  | <img src="./files/vllm-logo.png" alt="vLLM" width="25px" /> | `@vLLM-project/vLLM` |
 | <img src="./files/deepspeed-logo.png" alt="DeepSpeed" width="25px" />  | `@Microsoft/DeepSpeed` | <img src="./files/meta-logo.png" alt = "meta" width="26px" /> | `@meta-llama/llama` |
 
-<!-- ### ⚡Technology -->
-
-<!-- ![Last Whisper's GitHub stats](https://github-readme-stats.vercel.app/api?username=Muyangwen&show_icons=true&theme=onedark) -->
-
 <br/>
 <h1 align='center'><i>Work-Life Balance</i></h1>
