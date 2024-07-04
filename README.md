@@ -18,4 +18,4 @@ Barely passing as a deep learning engineer, yet passionate about AI Infrastructu
 | <img src="./files/deepspeed-logo.png" alt="DeepSpeed" width="25px" />  | `@Microsoft/DeepSpeed` | <img src="./files/meta-logo.png" alt = "meta" width="26px" /> | `@meta-llama/llama` |
 
 <br/>
-<h1 align='center'><i>Work-Life Balance</i></h1>
+<h1 align='center'><i>Work-Life Balance</i></h1> 
