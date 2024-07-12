@@ -1,5 +1,5 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/768px-Google_%22G%22_logo.svg.png" width="20px" style="vertical-align: middle; margin-top: 20px;" />
-
+ 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F3B95F&random=false&width=435&height=35&lines=LastWhisper+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 --- 
