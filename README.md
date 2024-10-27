@@ -10,6 +10,16 @@ Barely passing as a deep learning engineer, yet passionate about AI Infrastructu
 
 > _Striving to go further in DL, but aiming to be a Quant Dev, as a regular SDE._ 😮‍💨
 
+### Recently Milestone (Monthly)
+
+#### AI
+
+![blog](https://img.shields.io/badge/Blog%20(30%25)-Transformer%20Reading%20Blog%20for%20Interview%20(2024%2F10%2F27)-black?style=for-the-badge&logoColor=white&labelColor=black&color=%2354C392)
+
+#### Full-Stack
+
+![learn](https://img.shields.io/badge/Learn%20(20%25)-React%20%20(2024%2F10%2F27)-black?style=for-the-badge&logoColor=white&labelColor=black&color=D75F28)
+
 ### Open Source Contributor
 
 | ⚡️ | Project | ⚡️ | Project | 
