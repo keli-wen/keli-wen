@@ -18,7 +18,7 @@ Barely passing as a deep learning engineer, yet passionate about AI Infrastructu
 
 #### Full-Stack
 
-![learn](https://img.shields.io/badge/Learn%20(20%25)-React%20%20(2024%2F10%2F27)-black?style=for-the-badge&logoColor=white&labelColor=black&color=D75F28)
+![learn](https://img.shields.io/badge/Learn%20(40%25)-React%20%20(2024%2F10%2F27)-black?style=for-the-badge&logoColor=white&labelColor=black&color=D75F28)
 
 ### Open Source Contributor
 
