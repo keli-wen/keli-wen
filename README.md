@@ -14,22 +14,22 @@ Barely passing as a deep learning engineer, yet passionate about AI Infrastructu
 
 #### AI
 
-![blog](https://img.shields.io/badge/Blog%20(30%25)-Transformer%20Reading%20Blog%20for%20Interview%20(2024%2F10%2F27)-black?style=for-the-badge&logoColor=white&labelColor=black&color=%2354C392)
+![blog](https://img.shields.io/badge/Blog%20(30%25)-LLM%20Best%20Practice:LLM%20Performance%20Optimization(2025%2F01%2F15)-black?style=for-the-badge&logoColor=white&labelColor=black&color=%2354C392)
 
 #### Full-Stack
 
-...
+![learn](https://img.shields.io/badge/Learn%20(10%25)-FullStack%20Wiki%20(2024%2F10%2F27)-black?style=for-the-badge&logoColor=white&labelColor=black&color=D75F28)
 
 ### Archived
 
-![learn](https://img.shields.io/badge/Learn%20(100%25)-React%20%20(2024%2F10%2F27)-black?style=for-the-badge&logoColor=white&labelColor=black&color=D75F28)
+![blog](https://img.shields.io/badge/Blog%20(100%25)-LLM%20Best%20Practice:Prompt%20Caching(2025%2F01%2F01)-black?style=for-the-badge&logoColor=white&labelColor=black&color=%2354C392)
 
 ### Open Source Contributor
 
-| ⚡️ | Project | ⚡️ | Project | 
-| :--: | :--: | :--: | :--: |
-| <img src="./files/dmlc-logo.png" alt="@dmlc" width="30px" /> | `@DMLC/DGL`  | <img src="./files/vllm-logo.png" alt="vLLM" width="25px" /> | `@vLLM-project/vLLM` |
-| <img src="./files/deepspeed-logo.png" alt="DeepSpeed" width="25px" />  | `@Microsoft/DeepSpeed` | <img src="./files/meta-logo.png" alt = "meta" width="26px" /> | `@meta-llama/llama` |
+| ⚡️ | Project | ⚡️ | Project | ⚡️ | Project | 
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| <img src="./files/dmlc-logo.png" alt="@dmlc" width="30px" /> | `@DMLC/DGL`  | <img src="./files/vllm-logo.png" alt="vLLM" width="25px" /> | `@vLLM-project/vLLM` | <img src="./files/camel-logo.png" alt="camel-ai" width="25px" /> | `@camel-ai/camel` |
+| <img src="./files/deepspeed-logo.png" alt="DeepSpeed" width="25px" />  | `@Microsoft/DeepSpeed` | <img src="./files/meta-logo.png" alt = "meta" width="26px" /> | `@meta-llama/llama` | <img src="./files/llmquant-logo.png" alt="llmquant" width="25px" /> | `@LLMQuant` | 
 
 <!-- 好久没做开源了 -->
 
