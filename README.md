@@ -10,19 +10,36 @@ Barely passing as a deep learning engineer, yet passionate about AI Infrastructu
 
 > _Striving to go further in DL, but aiming to be a Quant Dev, as a regular SDE._ 😮‍💨
 
-### Recently Milestone (Monthly)
+### Mindmap about Tech
 
-#### AI
+```mermaid
+%%{init: {'theme':'forest'}}%%
+mindmap
+  root((My))
+    )AI Agent(
+      (Camel-AI)
+      (Google ADK)
+      
+    
+    )ML Infra(
+      (DGL)
+      (MLX)
+    
+    )FullStack(
+      (NextJS)
+      (TailwindCSS)
+      (Shadcn-UI)
+      (Supabase)
+      (Vercel)
+      (Swift)
+    
+    )Quant(
+      (Crypto)
+      (LLMQuant)
 
-![blog](https://img.shields.io/badge/Blog%20(30%25)-LLM%20Best%20Practice:LLM%20Performance%20Optimization(2025%2F01%2F15)-black?style=for-the-badge&logoColor=white&labelColor=black&color=%2354C392)
+    )Writing(
 
-#### Full-Stack
-
-![learn](https://img.shields.io/badge/Learn%20(10%25)-FullStack%20Wiki%20(2024%2F10%2F27)-black?style=for-the-badge&logoColor=white&labelColor=black&color=D75F28)
-
-### Archived
-
-![blog](https://img.shields.io/badge/Blog%20(100%25)-LLM%20Best%20Practice:Prompt%20Caching(2025%2F01%2F01)-black?style=for-the-badge&logoColor=white&labelColor=black&color=%2354C392)
+```
 
 ### Open Source Contributor
 
