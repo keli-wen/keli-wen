@@ -43,10 +43,10 @@ mindmap
 
 ### Open Source Contributor
 
-| ⚡️ | Project | ⚡️ | Project | ⚡️ | Project | 
-| :--: | :--: | :--: | :--: | :--: | :--: |
-| <img src="./files/dmlc-logo.png" alt="@dmlc" width="30px" /> | `@DMLC/DGL`  | <img src="./files/vllm-logo.png" alt="vLLM" width="25px" /> | `@vLLM-project/vLLM` | <img src="./files/camel-logo.png" alt="camel-ai" width="25px" /> | `@camel-ai/camel` |
-| <img src="./files/deepspeed-logo.png" alt="DeepSpeed" width="25px" />  | `@Microsoft/DeepSpeed` | <img src="./files/meta-logo.png" alt = "meta" width="26px" /> | `@meta-llama/llama` | <img src="./files/llmquant-logo.png" alt="llmquant" width="25px" /> | `@LLMQuant` | 
+| ⚡️ | Project | ⚡️ | Project | ⚡️ | Project | ⚡️ | Project | 
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| <img src="./files/dmlc-logo.png" alt="@dmlc" width="30px" /> | `@DMLC/DGL`  | <img src="./files/vllm-logo.png" alt="vLLM" width="25px" /> | `@vLLM-project/vLLM` | <img src="./files/camel-logo.png" alt="camel-ai" width="25px" /> | `@camel-ai/camel` | <img src="./files/agent-development-kit.png" alt="adk" width="25px" /> | `@google/adk-python` |
+| <img src="./files/deepspeed-logo.png" alt="DeepSpeed" width="25px" />  | `@Microsoft/DeepSpeed` | <img src="./files/meta-logo.png" alt = "meta" width="26px" /> | `@meta-llama/llama` | <img src="./files/llmquant-logo.png" alt="llmquant" width="25px" /> | `@LLMQuant` |  <img src="./files/apple-logo-fancy.png" alt = "apple" width="24px" /> | `@ml-explore/mlx` |
 
 <!-- 好久没做开源了 -->
 
